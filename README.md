@@ -3,6 +3,8 @@
 
 ![](https://leetcard.jacoblin.cool/DenisSementsov?ext=heatmap)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/DenisSementsov?theme=dark)
+
 <!--
 **GitDenisSHub/GitDenisSHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
